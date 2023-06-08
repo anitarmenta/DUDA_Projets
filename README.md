@@ -1,3 +1,8 @@
+Diplôme universitaire Data Analyst (DUDA)
+Le diplôme universitaire (DU) Data Analyst est une formation entièrement en ligne. Plus d'informations cliquez [ici](https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#presentation).
+
+Les projets suivants sont développés dans le cadre de cette formation.
+
 ### Projet 0
 Exercice sur les premiers pas avec le langage de programmation Python et les bibliothèques pandas et matplotlib.
 Cliquez [ici](/scripts/projet_0.ipynb) pour accéder au dossier 
