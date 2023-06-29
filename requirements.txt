@@ -2,3 +2,6 @@ pandas
 matplotlib
 seaborn
 missingno
+numpy
+datetime
+plotly
