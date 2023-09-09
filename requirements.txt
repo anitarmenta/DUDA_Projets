@@ -5,3 +5,8 @@ missingno
 numpy
 datetime
 plotly
+plotly.graph_objects
+plotly.io
+pingouin
+scipy.stats
+statsmodels.api
